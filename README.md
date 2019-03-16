@@ -2,6 +2,9 @@
 
 > A Vue.js project that it consumes [Last.FM API](https://www.last.fm/api/)
 
+## preview
+[https://relaxed-hypatia-b3fce1.netlify.com/](https://relaxed-hypatia-b3fce1.netlify.com/)
+
 ## Build Setup
 
 ``` bash
